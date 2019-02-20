@@ -1,7 +1,7 @@
 # Random-Episode-Generator
 C++
 
-This is the code for the Random Episode Generator. This project aimes to relieve the stress a consumer feels when faced with decison paralysis. Upon completion you will be able to generate a random episode offered on a given streaming site e.g(Netflix or Hulu)
+Welcome!! This project aimes to relieve the stress a consumer feels when faced with decison paralysis. Upon completion you will be able to generate a random episode offered on a given streaming site e.g(Netflix or Hulu)
 
 
 
